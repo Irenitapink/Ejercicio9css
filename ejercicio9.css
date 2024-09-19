@@ -1,0 +1,21 @@
+body {
+    margin: 20px;
+   
+}
+div {
+    padding: 15px; 
+    background-color: lightgray;
+    width: 300px;
+    border-color: #ddd;
+}
+.precio {
+    text-align: end;
+    color: red;
+    font-weight: bold;
+}
+h2 {
+    font-size: 22px;
+}
+p {
+    font-size: 14px;
+}
